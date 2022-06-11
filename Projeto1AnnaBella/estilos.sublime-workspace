@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"siz",
+				"background-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-repeat"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"borde",
+				"border-width"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"em",
+				"em"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"met",
+				"meta"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "estilos.css",
+			"settings":
+			{
+				"buffer_size": 475,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAcBAAAAAAAABwEAAAAAAABRAAAAYSB7Cgljb2xvcjogIzRiNTY2YTsKCXRleHQtZGVjb3JhdGlvbjogbm9uZTsKCWZvbnQtd2VpZ2h0OiBib2xkOwoJcGFkZGluZzogNXB4Owp9",
+					"AQAAAAAAAAABAAAAWAEAAAAAAAAHAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"paste",
+					null,
+					"AQAAAGIAAAAAAAAAswAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAALMAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC1AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"paste",
+					null,
+					"AQAAALUAAAAAAAAA3wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN0BAAAAAAAA3QEAAAAAAAAsAAAACmgxIHsKCWNvbG9yOiAjODI4MjcxOwoJZm9udC1zaXplOiAxLjJlbTsKfQo",
+					"AQAAAAAAAAABAAAACQIAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					2,
+					"left_delete",
+					null,
+					"AgAAAIUBAAAAAAAAhQEAAAAAAAABAAAACoQBAAAAAAAAhAEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAhgEAAAAAAACGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "\nali"
+					},
+					"BQAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGEAAAAAAAAAAAAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert_completion",
+					{
+						"completion": "align-content: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "align-content"
+					},
+					"AgAAAGAAAAAAAAAAYAAAAAAAAAADAAAAYWxpYAAAAAAAAABwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "center"
+					},
+					"BgAAAG8AAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABxAAAAAAAAAAAAAABxAAAAAAAAAHIAAAAAAAAAAAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbwAAAAAAAABvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "ali"
+					},
+					"BAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABhAAAAAAAAABYAAABhbGlnbi1jb250ZW50OiBjZW50ZXI7YQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert_completion",
+					{
+						"completion": "align-items: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "align-items"
+					},
+					"AgAAAGAAAAAAAAAAYAAAAAAAAAADAAAAYWxpYAAAAAAAAABuAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "center"
+					},
+					"BgAAAG0AAAAAAAAAbgAAAAAAAAAAAAAAbgAAAAAAAABvAAAAAAAAAAAAAABvAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAByAAAAAAAAAAAAAAByAAAAAAAAAHMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbQAAAAAAAABtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line.sublime-macro"
+					},
+					"AgAAAHQAAAAAAAAAdQAAAAAAAAAAAAAAdQAAAAAAAAB2AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHUAAAAAAAAAdQAAAAAAAAABAAAACXQAAAAAAAAAdAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "ali"
+					},
+					"BAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABhAAAAAAAAABQAAABhbGlnbi1pdGVtczogY2VudGVyO2EAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert_completion",
+					{
+						"completion": "align-self: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "align-self"
+					},
+					"AgAAAGAAAAAAAAAAYAAAAAAAAAADAAAAYWxpYAAAAAAAAABtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "center"
+					},
+					"BgAAAGwAAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAG8AAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABxAAAAAAAAAAAAAABxAAAAAAAAAHIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "text"
+					},
+					"BQAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABhAAAAAAAAABMAAABhbGlnbi1zZWxmOiBjZW50ZXI7YQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert_completion",
+					{
+						"completion": "text-align: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "text-align"
+					},
+					"AgAAAGAAAAAAAAAAYAAAAAAAAAAEAAAAdGV4dGAAAAAAAAAAbQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "center"
+					},
+					"BgAAAGwAAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAG8AAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABxAAAAAAAAAAAAAABxAAAAAAAAAHIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "\nalig"
+					},
+					"BgAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB1AAAAAAAAAAAAAAB1AAAAAAAAAHYAAAAAAAAAAAAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAdwAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					2,
+					"left_delete",
+					null,
+					"AgAAAF8AAAAAAAAAXwAAAAAAAAAaAAAACXRleHQtYWxpZ246IGNlbnRlcjsKCWFsaWdeAAAAAAAAAF4AAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAeQAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1260,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/PICHAU/Documents/Curso WEB/Seção 4/Projeto2AnnaBella"
+	],
+	"file_history":
+	[
+		"/C/Users/PICHAU/Documents/Curso WEB/Seção 4/Projeto2AnnaBella/estilos.sublime-project",
+		"/C/Users/PICHAU/Documents/Curso WEB/Seção 4/ProjetoCSS3 intermediario/modelo-caixa.html",
+		"/C/Users/PICHAU/Documents/Curso WEB/Seção 4/ProjetoCSS3 intermediario/estilo.css",
+		"/C/Users/PICHAU/Documents/Curso WEB/test/style.css",
+		"/C/Users/PICHAU/Documents/Curso WEB/test/index.html",
+		"/C/Users/PICHAU/Documents/Curso WEB/test/contato.html",
+		"/C/Users/PICHAU/Documents/Curso WEB/test/campanhas.html",
+		"/C/Users/PICHAU/Documents/Curso WEB/test/biografia.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/estudando/contato.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/estudando/campanhas.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/Projeto2AnnaBella/campanhas.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/estudando/biografia.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/Projeto2AnnaBella/contato.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/Projeto2AnnaBella/index.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/Projeto2AnnaBella/estilos.css",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/Projeto2AnnaBella/biografia.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/Projeto2AnnaBella/imagens/index.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/ProjetoCSS3/estilo.css",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/ProjetoCSS3/pagina2.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/ProjetoCSS3/pagina1.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/ProjetoCSS3/cor-imagem-fundo.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/ProjetoCSS3/estilos-textos.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/ProjetoCSS3/tamanho-textos.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/ProjetoCSS3/fontes-cores.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/ProjetoCSS3/bordas.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/ProjetoCSS3/div-span.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/ProjetoCSS3/classes-ids.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 4/ProjetoCSS3/inline_style.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 3/ProjetoCSS3",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 3/ProjetoFinalHTML/index.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 3/ProjetoFinalHTML/quem-somos.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 3/ProjetoFinalHTML/contato.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 3/ProjetoFinalHTML/teste.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 3/primeiro projeto/index.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 3/primeiro projeto/contato.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 3/primeiro projeto/projeto.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 2/Projeto Web/index.html",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 2/Projeto Aula/CSS/estilo-teste.css",
+		"/C/Users/PICHAU/Downloads/Curso WEB/Seção 2/Projeto Aula/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							],
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "estilos.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
